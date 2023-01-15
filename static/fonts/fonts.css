@@ -1,0 +1,9 @@
+@font-face {
+    font-family: Lalezar;
+    src: url('./Lalezar.ttf');
+    font-weight: normal;
+}
+
+.lalezar {
+    font-family: Lalezar;
+}
